@@ -1,2 +1,7 @@
 node_modules
+server
 dist
+yarn.lock
+coverage
+ts-jest.log
+*.log
